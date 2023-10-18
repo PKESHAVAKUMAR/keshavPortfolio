@@ -1,0 +1,17 @@
+/* styles.css */
+.navbar {
+    background-color: #fff;
+  }
+  
+  .btn-menu {
+    background-color: #457efa;
+    color: #fff;
+  }
+  
+  .container-fluid {
+    background-color: #007BFF;
+    min-height: 100vh;
+  }
+  
+  /* Add more styles for your other elements as needed */
+  
